@@ -1,0 +1,2 @@
+The BCT Deposit contract takes in Matic and converts it to BCT. 
+We lock the BCT in the contract and give them green NFTs. 
